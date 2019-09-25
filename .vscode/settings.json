@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/leejustin/.platformio/penv/bin:/Users/leejustin/.platformio/penv:/Users/leejustin/anaconda3/bin:/Users/leejustin/.local/bin:/Users/leejustin/.nvm/versions/node/v10.16.3/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public/:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/opt/yarn-[version]/bin:/usr/local/bin",
+    "PLATFORMIO_CALLER": "vscode"
+  }
+}
